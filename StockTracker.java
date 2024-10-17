@@ -1,4 +1,4 @@
-// this a program which reads a files containing stock market information sorted into 7 columns
+// this is a program which reads  files containing stock market information sorted into 7 columns
 //this program then searches and sorts through that data and organizes it in several ways
 //such as finding the top five lowest and highest opening stocks
 
